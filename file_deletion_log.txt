@@ -1,0 +1,621 @@
+2024-09-30 23:28:17,086 - INFO - 
+Searching in directory: /Users/leoho/Downloads/
+2024-09-30 23:28:17,086 - INFO - Keywords: WinDisk
+
+2024-09-30 23:28:17,087 - INFO - Checking file: Thumbs.db
+2024-09-30 23:28:17,087 - DEBUG - No keyword match in filename: Thumbs.db
+2024-09-30 23:28:17,087 - INFO - Checking file: mediaCreationTool_Win11_23H2.exe
+2024-09-30 23:28:17,087 - DEBUG - No keyword match in filename: mediaCreationTool_Win11_23H2.exe
+2024-09-30 23:28:17,087 - INFO - Checking file: test.docx
+2024-09-30 23:28:17,087 - DEBUG - No keyword match in filename: test.docx
+2024-09-30 23:28:17,087 - INFO - Checking file: .DS_Store
+2024-09-30 23:28:17,087 - DEBUG - No keyword match in filename: .DS_Store
+2024-09-30 23:28:17,087 - INFO - Checking file: images.jpeg
+2024-09-30 23:28:17,087 - DEBUG - No keyword match in filename: images.jpeg
+2024-09-30 23:28:17,087 - INFO - Checking file: ~$pendix A conv.docx
+2024-09-30 23:28:17,087 - DEBUG - No keyword match in filename: ~$pendix A conv.docx
+2024-09-30 23:28:17,087 - INFO - Checking file: Fq8WLBlaYAAwwiu.jpg
+2024-09-30 23:28:17,087 - DEBUG - No keyword match in filename: Fq8WLBlaYAAwwiu.jpg
+2024-09-30 23:28:17,087 - INFO - Checking file: ~$9_cash_certificate.docx_20240818_020957.docx
+2024-09-30 23:28:17,088 - DEBUG - No keyword match in filename: ~$9_cash_certificate.docx_20240818_020957.docx
+2024-09-30 23:28:17,088 - INFO - Checking file: .localized
+2024-09-30 23:28:17,088 - DEBUG - No keyword match in filename: .localized
+2024-09-30 23:28:17,088 - INFO - Checking file: GR9FrdhbsAAsPB3.jpeg
+2024-09-30 23:28:17,088 - DEBUG - No keyword match in filename: GR9FrdhbsAAsPB3.jpeg
+2024-09-30 23:28:17,088 - INFO - Checking file: IMG_0471.JPG
+2024-09-30 23:28:17,088 - DEBUG - No keyword match in filename: IMG_0471.JPG
+2024-09-30 23:28:17,088 - INFO - Checking file: Form_TCSP2_revised_Dec_2023.pdf
+2024-09-30 23:28:17,088 - DEBUG - No keyword match in filename: Form_TCSP2_revised_Dec_2023.pdf
+2024-09-30 23:28:17,088 - INFO - Checking file: IMG_7939.JPG
+2024-09-30 23:28:17,088 - DEBUG - No keyword match in filename: IMG_7939.JPG
+2024-09-30 23:28:17,088 - INFO - Checking file: ~$point_tax_rep_1723836651470.docx
+2024-09-30 23:28:17,088 - DEBUG - No keyword match in filename: ~$point_tax_rep_1723836651470.docx
+2024-09-30 23:28:17,088 - INFO - Checking file: README-1.TXT
+2024-09-30 23:28:17,088 - DEBUG - No keyword match in filename: README-1.TXT
+2024-09-30 23:28:17,088 - INFO - Checking file: IMG_8785.PNG_compressed.JPEG
+2024-09-30 23:28:17,088 - DEBUG - No keyword match in filename: IMG_8785.PNG_compressed.JPEG
+2024-09-30 23:28:17,088 - INFO - Checking file: Screenshot 2024-09-03 at 01.08.14.png
+2024-09-30 23:28:17,088 - DEBUG - No keyword match in filename: Screenshot 2024-09-03 at 01.08.14.png
+2024-09-30 23:28:17,088 - INFO - Checking file: Win11_23H2_English_x64v2.iso
+2024-09-30 23:28:17,089 - DEBUG - No keyword match in filename: Win11_23H2_English_x64v2.iso
+2024-09-30 23:28:17,089 - INFO - Checking file: medical_receipt_66d5f96582b3faa81a95ac5b.JPG
+2024-09-30 23:28:17,089 - DEBUG - No keyword match in filename: medical_receipt_66d5f96582b3faa81a95ac5b.JPG
+2024-09-30 23:28:17,089 - INFO - Checking file: ~$9_cash_certificate_2024-08-31_20240818_030631.docx
+2024-09-30 23:28:17,089 - DEBUG - No keyword match in filename: ~$9_cash_certificate_2024-08-31_20240818_030631.docx
+2024-09-30 23:28:17,089 - INFO - Checking file: README.TXT
+2024-09-30 23:28:17,089 - DEBUG - No keyword match in filename: README.TXT
+2024-09-30 23:28:17,089 - INFO - Checking file: ~$9_appoint_auditor.docx (2).docx
+2024-09-30 23:28:17,089 - DEBUG - No keyword match in filename: ~$9_appoint_auditor.docx (2).docx
+2024-09-30 23:28:17,089 - INFO - Checking file: GR9FrdhbsAAsPB3 (1).jpeg
+2024-09-30 23:28:17,089 - DEBUG - No keyword match in filename: GR9FrdhbsAAsPB3 (1).jpeg
+2024-09-30 23:28:17,089 - INFO - Checking file: ~$ply Letter.docx
+2024-09-30 23:28:17,089 - DEBUG - No keyword match in filename: ~$ply Letter.docx
+2024-09-30 23:28:17,089 - INFO - Checking file: 2a33885a-c097-4503-94e8-177621a7dd09.m4v
+2024-09-30 23:28:17,089 - DEBUG - No keyword match in filename: 2a33885a-c097-4503-94e8-177621a7dd09.m4v
+2024-09-30 23:28:17,089 - INFO - Checking file: desktop.ini
+2024-09-30 23:28:17,089 - DEBUG - No keyword match in filename: desktop.ini
+2024-09-30 23:28:17,089 - INFO - Checking file: ~$Event Limited_appoint_auditor.docx (3).docx
+2024-09-30 23:28:17,089 - DEBUG - No keyword match in filename: ~$Event Limited_appoint_auditor.docx (3).docx
+2024-09-30 23:28:17,089 - INFO - Checking file: ~$Reply.docx
+2024-09-30 23:28:17,090 - DEBUG - No keyword match in filename: ~$Reply.docx
+2024-09-30 23:28:17,090 - INFO - Checking file: vm_1699099826.1080.mp4
+2024-09-30 23:28:17,090 - DEBUG - No keyword match in filename: vm_1699099826.1080.mp4
+2024-09-30 23:28:17,090 - INFO - Checking file: $RECYCLE.BIN/$R91D8Z8.png
+2024-09-30 23:28:17,090 - DEBUG - No keyword match in filename: $RECYCLE.BIN/$R91D8Z8.png
+2024-09-30 23:28:17,090 - INFO - Checking file: $RECYCLE.BIN/$IJELRAM.xls
+2024-09-30 23:28:17,090 - DEBUG - No keyword match in filename: $RECYCLE.BIN/$IJELRAM.xls
+2024-09-30 23:28:17,090 - INFO - Checking file: $RECYCLE.BIN/$I9BE8OQ.xlsx
+2024-09-30 23:28:17,090 - DEBUG - No keyword match in filename: $RECYCLE.BIN/$I9BE8OQ.xlsx
+2024-09-30 23:28:17,090 - INFO - Checking file: $RECYCLE.BIN/$R9BE8OQ.xlsx
+2024-09-30 23:28:17,090 - DEBUG - No keyword match in filename: $RECYCLE.BIN/$R9BE8OQ.xlsx
+2024-09-30 23:28:17,090 - INFO - Checking file: $RECYCLE.BIN/$RJELRAM.xls
+2024-09-30 23:28:17,090 - DEBUG - No keyword match in filename: $RECYCLE.BIN/$RJELRAM.xls
+2024-09-30 23:28:17,090 - INFO - Checking file: $RECYCLE.BIN/desktop.ini
+2024-09-30 23:28:17,090 - DEBUG - No keyword match in filename: $RECYCLE.BIN/desktop.ini
+2024-09-30 23:28:17,090 - INFO - Checking file: $RECYCLE.BIN/$I91D8Z8.png
+2024-09-30 23:28:17,090 - DEBUG - No keyword match in filename: $RECYCLE.BIN/$I91D8Z8.png
+2024-09-30 23:28:17,091 - INFO - Checking file: WinDiskWriter-main/license.md
+2024-09-30 23:28:17,091 - DEBUG - No keyword match in filename: WinDiskWriter-main/license.md
+2024-09-30 23:28:17,091 - INFO - Checking file: WinDiskWriter-main/.DS_Store
+2024-09-30 23:28:17,091 - DEBUG - No keyword match in filename: WinDiskWriter-main/.DS_Store
+2024-09-30 23:28:17,091 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter.md
+2024-09-30 23:28:17,091 - INFO - Deleted: WinDiskWriter-main/WinDiskWriter.md
+2024-09-30 23:28:17,091 - INFO - Checking file: WinDiskWriter-main/.gitignore
+2024-09-30 23:28:17,091 - DEBUG - No keyword match in filename: WinDiskWriter-main/.gitignore
+2024-09-30 23:28:17,092 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/.DS_Store
+2024-09-30 23:28:17,092 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/.DS_Store
+2024-09-30 23:28:17,092 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/main.m
+2024-09-30 23:28:17,092 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/main.m
+2024-09-30 23:28:17,092 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Cells/MiddleAlignedCell/MiddleAlignedCell.h
+2024-09-30 23:28:17,092 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Cells/MiddleAlignedCell/MiddleAlignedCell.h
+2024-09-30 23:28:17,092 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Cells/MiddleAlignedCell/MiddleAlignedCell.m
+2024-09-30 23:28:17,092 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Cells/MiddleAlignedCell/MiddleAlignedCell.m
+2024-09-30 23:28:17,093 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/HDIUtil/HDIUtil.h
+2024-09-30 23:28:17,093 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/HDIUtil/HDIUtil.h
+2024-09-30 23:28:17,093 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/HDIUtil/HDIUtil.m
+2024-09-30 23:28:17,093 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/HDIUtil/HDIUtil.m
+2024-09-30 23:28:17,093 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/DiskManager/DiskManager.h
+2024-09-30 23:28:17,093 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/DiskManager/DiskManager.h
+2024-09-30 23:28:17,093 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/DiskManager/DiskManager.m
+2024-09-30 23:28:17,093 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/DiskManager/DiskManager.m
+2024-09-30 23:28:17,093 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/DiskManager/DiskInfo/DiskInfo.m
+2024-09-30 23:28:17,093 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/DiskManager/DiskInfo/DiskInfo.m
+2024-09-30 23:28:17,093 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/DiskManager/DiskInfo/DiskInfo.h
+2024-09-30 23:28:17,093 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/DiskManager/DiskInfo/DiskInfo.h
+2024-09-30 23:28:17,094 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/DiskManager/PartitionSchemes/PartitionSchemes.m
+2024-09-30 23:28:17,094 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/DiskManager/PartitionSchemes/PartitionSchemes.m
+2024-09-30 23:28:17,094 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/DiskManager/PartitionSchemes/PartitionSchemes.h
+2024-09-30 23:28:17,094 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/DiskManager/PartitionSchemes/PartitionSchemes.h
+2024-09-30 23:28:17,094 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/DiskManager/Filesystems/Filesystems.h
+2024-09-30 23:28:17,094 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/DiskManager/Filesystems/Filesystems.h
+2024-09-30 23:28:17,094 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/DiskManager/Filesystems/Filesystems.m
+2024-09-30 23:28:17,094 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/DiskManager/Filesystems/Filesystems.m
+2024-09-30 23:28:17,094 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/CommandLine/CommandLine.m
+2024-09-30 23:28:17,094 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/CommandLine/CommandLine.m
+2024-09-30 23:28:17,094 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/CommandLine/CommandLine.h
+2024-09-30 23:28:17,094 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/CommandLine/CommandLine.h
+2024-09-30 23:28:17,094 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/CommandLine/CommandLineData/CommandLineData.h
+2024-09-30 23:28:17,095 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/CommandLine/CommandLineData/CommandLineData.h
+2024-09-30 23:28:17,095 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/CommandLine/CommandLineData/CommandLineData.m
+2024-09-30 23:28:17,095 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/CommandLine/CommandLineData/CommandLineData.m
+2024-09-30 23:28:17,095 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/SimpleDownloadManager/SimpleDownloadManager.m
+2024-09-30 23:28:17,095 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/SimpleDownloadManager/SimpleDownloadManager.m
+2024-09-30 23:28:17,095 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/SimpleDownloadManager/SimpleDownloadManager.h
+2024-09-30 23:28:17,095 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/SimpleDownloadManager/SimpleDownloadManager.h
+2024-09-30 23:28:17,095 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/FrameLayout/FrameLayout.h
+2024-09-30 23:28:17,095 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/FrameLayout/FrameLayout.h
+2024-09-30 23:28:17,095 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/FrameLayout/FrameLayoutBase/FrameLayoutBase.m
+2024-09-30 23:28:17,095 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/FrameLayout/FrameLayoutBase/FrameLayoutBase.m
+2024-09-30 23:28:17,095 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/FrameLayout/FrameLayoutBase/FrameLayoutBase.h
+2024-09-30 23:28:17,095 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/FrameLayout/FrameLayoutBase/FrameLayoutBase.h
+2024-09-30 23:28:17,096 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/FrameLayout/FrameLayoutElement/FrameLayoutElement.m
+2024-09-30 23:28:17,096 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/FrameLayout/FrameLayoutElement/FrameLayoutElement.m
+2024-09-30 23:28:17,096 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/FrameLayout/FrameLayoutElement/FrameLayoutElement.h
+2024-09-30 23:28:17,096 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/FrameLayout/FrameLayoutElement/FrameLayoutElement.h
+2024-09-30 23:28:17,096 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/FrameLayout/FrameLayoutVertical/FrameLayoutVertical.h
+2024-09-30 23:28:17,096 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/FrameLayout/FrameLayoutVertical/FrameLayoutVertical.h
+2024-09-30 23:28:17,096 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/FrameLayout/FrameLayoutVertical/FrameLayoutVertical.m
+2024-09-30 23:28:17,096 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/FrameLayout/FrameLayoutVertical/FrameLayoutVertical.m
+2024-09-30 23:28:17,096 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/FrameLayout/FrameLayoutHorizontal/FrameLayoutHorizontal.h
+2024-09-30 23:28:17,096 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/FrameLayout/FrameLayoutHorizontal/FrameLayoutHorizontal.h
+2024-09-30 23:28:17,096 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/FrameLayout/FrameLayoutHorizontal/FrameLayoutHorizontal.m
+2024-09-30 23:28:17,096 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/FrameLayout/FrameLayoutHorizontal/FrameLayoutHorizontal.m
+2024-09-30 23:28:17,096 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/CChar2DArray/CChar2DArray.h
+2024-09-30 23:28:17,096 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/CChar2DArray/CChar2DArray.h
+2024-09-30 23:28:17,096 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/CChar2DArray/CChar2DArray.m
+2024-09-30 23:28:17,096 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/CChar2DArray/CChar2DArray.m
+2024-09-30 23:28:17,097 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/HelperFunctions/HelperFunctions.h
+2024-09-30 23:28:17,097 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/HelperFunctions/HelperFunctions.h
+2024-09-30 23:28:17,097 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/HelperFunctions/HelperFunctions.m
+2024-09-30 23:28:17,097 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/HelperFunctions/HelperFunctions.m
+2024-09-30 23:28:17,097 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/WimlibWrapper/WimlibWrapper.h
+2024-09-30 23:28:17,097 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/WimlibWrapper/WimlibWrapper.h
+2024-09-30 23:28:17,097 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/WimlibWrapper/WimlibWrapper.m
+2024-09-30 23:28:17,097 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/WimlibWrapper/WimlibWrapper.m
+2024-09-30 23:28:17,097 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/WimlibWrapper/WimlibSplitInfo/WimlibSplitInfo.h
+2024-09-30 23:28:17,097 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/WimlibWrapper/WimlibSplitInfo/WimlibSplitInfo.h
+2024-09-30 23:28:17,097 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/WimlibWrapper/WimlibSplitInfo/WimlibSplitInfo.m
+2024-09-30 23:28:17,097 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/WimlibWrapper/WimlibSplitInfo/WimlibSplitInfo.m
+2024-09-30 23:28:17,097 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/DiskWriter/DiskWriter.m
+2024-09-30 23:28:17,097 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/DiskWriter/DiskWriter.m
+2024-09-30 23:28:17,097 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/DiskWriter/DiskWriter.h
+2024-09-30 23:28:17,098 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/DiskWriter/DiskWriter.h
+2024-09-30 23:28:17,098 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/DiskWriter/DWFilesContainer/DWFilesContainer.h
+2024-09-30 23:28:17,098 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/DiskWriter/DWFilesContainer/DWFilesContainer.h
+2024-09-30 23:28:17,098 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/DiskWriter/DWFilesContainer/DWFilesContainer.m
+2024-09-30 23:28:17,098 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/DiskWriter/DWFilesContainer/DWFilesContainer.m
+2024-09-30 23:28:17,098 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/DiskWriter/DWFilesContainer/DWFile/DWFile.h
+2024-09-30 23:28:17,098 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/DiskWriter/DWFilesContainer/DWFile/DWFile.h
+2024-09-30 23:28:17,098 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/DiskWriter/DWFilesContainer/DWFile/DWFile.m
+2024-09-30 23:28:17,098 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/DiskWriter/DWFilesContainer/DWFile/DWFile.m
+2024-09-30 23:28:17,098 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/DiskWriter/DWProgress/DWProgress.h
+2024-09-30 23:28:17,098 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/DiskWriter/DWProgress/DWProgress.h
+2024-09-30 23:28:17,098 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Classes/DiskWriter/DWProgress/DWProgress.m
+2024-09-30 23:28:17,098 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Classes/DiskWriter/DWProgress/DWProgress.m
+2024-09-30 23:28:17,099 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Constants/Constants.m
+2024-09-30 23:28:17,099 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Constants/Constants.m
+2024-09-30 23:28:17,099 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Constants/Licenses-Constants.h
+2024-09-30 23:28:17,099 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Constants/Licenses-Constants.h
+2024-09-30 23:28:17,099 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Constants/Constants.h
+2024-09-30 23:28:17,099 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Constants/Constants.h
+2024-09-30 23:28:17,099 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Constants/Licenses-Constants.m
+2024-09-30 23:28:17,099 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Constants/Licenses-Constants.m
+2024-09-30 23:28:17,099 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/LocalizedStrings/LocalizedStrings.m
+2024-09-30 23:28:17,099 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/LocalizedStrings/LocalizedStrings.m
+2024-09-30 23:28:17,099 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/LocalizedStrings/LocalizedStrings.h
+2024-09-30 23:28:17,099 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/LocalizedStrings/LocalizedStrings.h
+2024-09-30 23:28:17,099 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/LocalizedStrings/en.lproj/Localizable.strings
+2024-09-30 23:28:17,099 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/LocalizedStrings/en.lproj/Localizable.strings
+2024-09-30 23:28:17,099 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/LocalizedStrings/ru.lproj/Localizable.strings
+2024-09-30 23:28:17,099 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/LocalizedStrings/ru.lproj/Localizable.strings
+2024-09-30 23:28:17,099 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Base.lproj/Localizable.strings
+2024-09-30 23:28:17,099 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Base.lproj/Localizable.strings
+2024-09-30 23:28:17,099 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Extensions/NSMutableAttributedString/NSMutableAttributedString+Common.m
+2024-09-30 23:28:17,099 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Extensions/NSMutableAttributedString/NSMutableAttributedString+Common.m
+2024-09-30 23:28:17,100 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Extensions/NSMutableAttributedString/NSAttributedString+Common.h/NSMutableAttributedString+Common.h
+2024-09-30 23:28:17,100 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Extensions/NSMutableAttributedString/NSAttributedString+Common.h/NSMutableAttributedString+Common.h
+2024-09-30 23:28:17,100 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Extensions/NSFileManager/NSFileManager+Common.h
+2024-09-30 23:28:17,100 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Extensions/NSFileManager/NSFileManager+Common.h
+2024-09-30 23:28:17,100 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Extensions/NSFileManager/NSFileManager+Common.m
+2024-09-30 23:28:17,100 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Extensions/NSFileManager/NSFileManager+Common.m
+2024-09-30 23:28:17,100 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Extensions/NSError/NSError+Common.h
+2024-09-30 23:28:17,100 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Extensions/NSError/NSError+Common.h
+2024-09-30 23:28:17,100 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Extensions/NSError/NSError+Common.m
+2024-09-30 23:28:17,100 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Extensions/NSError/NSError+Common.m
+2024-09-30 23:28:17,100 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Extensions/NSString/NSString+Common.h
+2024-09-30 23:28:17,100 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Extensions/NSString/NSString+Common.h
+2024-09-30 23:28:17,100 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Extensions/NSString/NSString+Common.m
+2024-09-30 23:28:17,100 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Extensions/NSString/NSString+Common.m
+2024-09-30 23:28:17,100 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Extensions/NSArray/NSArray+Common.h
+2024-09-30 23:28:17,100 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Extensions/NSArray/NSArray+Common.h
+2024-09-30 23:28:17,100 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Extensions/NSArray/NSArray+Common.m
+2024-09-30 23:28:17,100 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Extensions/NSArray/NSArray+Common.m
+2024-09-30 23:28:17,100 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Extensions/NSColor/NSColor+Common.m
+2024-09-30 23:28:17,100 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Extensions/NSColor/NSColor+Common.m
+2024-09-30 23:28:17,100 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Extensions/NSColor/NSColor+Common.h
+2024-09-30 23:28:17,100 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Extensions/NSColor/NSColor+Common.h
+2024-09-30 23:28:17,100 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Extensions/NSWindow/NSWindow+Common.h
+2024-09-30 23:28:17,100 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Extensions/NSWindow/NSWindow+Common.h
+2024-09-30 23:28:17,100 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Extensions/NSWindow/NSWindow+Common.m
+2024-09-30 23:28:17,100 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Extensions/NSWindow/NSWindow+Common.m
+2024-09-30 23:28:17,100 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/License.txt
+2024-09-30 23:28:17,100 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/License.txt
+2024-09-30 23:28:17,100 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/include/wimlib_tchar.h
+2024-09-30 23:28:17,100 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/include/wimlib_tchar.h
+2024-09-30 23:28:17,100 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/include/wimlib.h
+2024-09-30 23:28:17,100 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/include/wimlib.h
+2024-09-30 23:28:17,100 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/bt_matchfinder.h
+2024-09-30 23:28:17,100 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/bt_matchfinder.h
+2024-09-30 23:28:17,101 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/matchfinder_common.h
+2024-09-30 23:28:17,101 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/matchfinder_common.h
+2024-09-30 23:28:17,101 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/object_id.h
+2024-09-30 23:28:17,101 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/object_id.h
+2024-09-30 23:28:17,101 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/unaligned.h
+2024-09-30 23:28:17,101 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/unaligned.h
+2024-09-30 23:28:17,101 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/join.c
+2024-09-30 23:28:17,101 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/join.c
+2024-09-30 23:28:17,101 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/extract.c
+2024-09-30 23:28:17,101 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/extract.c
+2024-09-30 23:28:17,101 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/bitops.h
+2024-09-30 23:28:17,101 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/bitops.h
+2024-09-30 23:28:17,101 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/chunk_compressor.h
+2024-09-30 23:28:17,101 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/chunk_compressor.h
+2024-09-30 23:28:17,101 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/unix_capture.c
+2024-09-30 23:28:17,101 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/unix_capture.c
+2024-09-30 23:28:17,101 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/endianness.h
+2024-09-30 23:28:17,101 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/endianness.h
+2024-09-30 23:28:17,101 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/compiler.h
+2024-09-30 23:28:17,101 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/compiler.h
+2024-09-30 23:28:17,101 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/add_image.c
+2024-09-30 23:28:17,101 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/add_image.c
+2024-09-30 23:28:17,101 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/compress.c
+2024-09-30 23:28:17,101 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/compress.c
+2024-09-30 23:28:17,101 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/decompress.c
+2024-09-30 23:28:17,101 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/decompress.c
+2024-09-30 23:28:17,101 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/types.h
+2024-09-30 23:28:17,101 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/types.h
+2024-09-30 23:28:17,101 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/reference.c
+2024-09-30 23:28:17,101 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/reference.c
+2024-09-30 23:28:17,101 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/guid.h
+2024-09-30 23:28:17,101 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/guid.h
+2024-09-30 23:28:17,101 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/integrity.c
+2024-09-30 23:28:17,102 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/integrity.c
+2024-09-30 23:28:17,102 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/verify.c
+2024-09-30 23:28:17,102 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/verify.c
+2024-09-30 23:28:17,102 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/split.c
+2024-09-30 23:28:17,102 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/split.c
+2024-09-30 23:28:17,102 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/template.c
+2024-09-30 23:28:17,102 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/template.c
+2024-09-30 23:28:17,102 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/lzms_decompress.c
+2024-09-30 23:28:17,102 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/lzms_decompress.c
+2024-09-30 23:28:17,102 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/metadata.h
+2024-09-30 23:28:17,102 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/metadata.h
+2024-09-30 23:28:17,102 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/lzx_compress.c
+2024-09-30 23:28:17,102 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/lzx_compress.c
+2024-09-30 23:28:17,102 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/mount_image.c
+2024-09-30 23:28:17,102 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/mount_image.c
+2024-09-30 23:28:17,102 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/win32.h
+2024-09-30 23:28:17,102 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/win32.h
+2024-09-30 23:28:17,102 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/security_descriptor.h
+2024-09-30 23:28:17,102 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/security_descriptor.h
+2024-09-30 23:28:17,102 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/ntfs-3g_capture.c
+2024-09-30 23:28:17,102 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/ntfs-3g_capture.c
+2024-09-30 23:28:17,102 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/list.h
+2024-09-30 23:28:17,102 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/list.h
+2024-09-30 23:28:17,102 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/alloca.h
+2024-09-30 23:28:17,102 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/alloca.h
+2024-09-30 23:28:17,102 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/xpress_constants.h
+2024-09-30 23:28:17,102 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/xpress_constants.h
+2024-09-30 23:28:17,102 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/win32_apply.c
+2024-09-30 23:28:17,102 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/win32_apply.c
+2024-09-30 23:28:17,102 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/export_image.c
+2024-09-30 23:28:17,102 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/export_image.c
+2024-09-30 23:28:17,102 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/compress_serial.c
+2024-09-30 23:28:17,102 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/compress_serial.c
+2024-09-30 23:28:17,102 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/update_image.c
+2024-09-30 23:28:17,102 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/update_image.c
+2024-09-30 23:28:17,102 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/wof.h
+2024-09-30 23:28:17,102 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/wof.h
+2024-09-30 23:28:17,102 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/lzx_decompress.c
+2024-09-30 23:28:17,102 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/lzx_decompress.c
+2024-09-30 23:28:17,102 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/xattr.h
+2024-09-30 23:28:17,102 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/xattr.h
+2024-09-30 23:28:17,102 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/xpress_decompress.c
+2024-09-30 23:28:17,102 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/xpress_decompress.c
+2024-09-30 23:28:17,103 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/lzx_constants.h
+2024-09-30 23:28:17,103 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/lzx_constants.h
+2024-09-30 23:28:17,103 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/compressor_ops.h
+2024-09-30 23:28:17,103 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/compressor_ops.h
+2024-09-30 23:28:17,103 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/hc_matchfinder.h
+2024-09-30 23:28:17,103 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/hc_matchfinder.h
+2024-09-30 23:28:17,103 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/case.h
+2024-09-30 23:28:17,103 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/case.h
+2024-09-30 23:28:17,103 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/integrity.h
+2024-09-30 23:28:17,103 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/integrity.h
+2024-09-30 23:28:17,103 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/win32_replacements.c
+2024-09-30 23:28:17,103 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/win32_replacements.c
+2024-09-30 23:28:17,103 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/apply.h
+2024-09-30 23:28:17,103 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/apply.h
+2024-09-30 23:28:17,103 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/ntfs_3g.h
+2024-09-30 23:28:17,103 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/ntfs_3g.h
+2024-09-30 23:28:17,103 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/compress_parallel.c
+2024-09-30 23:28:17,103 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/compress_parallel.c
+2024-09-30 23:28:17,103 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/assert.h
+2024-09-30 23:28:17,103 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/assert.h
+2024-09-30 23:28:17,103 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/inode_fixup.c
+2024-09-30 23:28:17,103 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/inode_fixup.c
+2024-09-30 23:28:17,103 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/glob.h
+2024-09-30 23:28:17,103 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/glob.h
+2024-09-30 23:28:17,103 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/win32_capture.c
+2024-09-30 23:28:17,103 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/win32_capture.c
+2024-09-30 23:28:17,103 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/delete_image.c
+2024-09-30 23:28:17,103 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/delete_image.c
+2024-09-30 23:28:17,103 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/unix_data.h
+2024-09-30 23:28:17,103 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/unix_data.h
+2024-09-30 23:28:17,103 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/metadata_resource.c
+2024-09-30 23:28:17,103 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/metadata_resource.c
+2024-09-30 23:28:17,103 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/iterate_dir.c
+2024-09-30 23:28:17,103 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/iterate_dir.c
+2024-09-30 23:28:17,103 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/unix_apply.c
+2024-09-30 23:28:17,103 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/unix_apply.c
+2024-09-30 23:28:17,103 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/xpress_compress.c
+2024-09-30 23:28:17,103 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/xpress_compress.c
+2024-09-30 23:28:17,103 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/decompressor_ops.h
+2024-09-30 23:28:17,103 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/decompressor_ops.h
+2024-09-30 23:28:17,103 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/write/write.h
+2024-09-30 23:28:17,103 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/write/write.h
+2024-09-30 23:28:17,104 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/write/write.c
+2024-09-30 23:28:17,104 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/write/write.c
+2024-09-30 23:28:17,104 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/dentry/dentry.h
+2024-09-30 23:28:17,104 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/dentry/dentry.h
+2024-09-30 23:28:17,104 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/dentry/dentry.c
+2024-09-30 23:28:17,104 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/dentry/dentry.c
+2024-09-30 23:28:17,104 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/wimboot/wimboot.h
+2024-09-30 23:28:17,104 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/wimboot/wimboot.h
+2024-09-30 23:28:17,104 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/wimboot/wimboot.c
+2024-09-30 23:28:17,104 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/wimboot/wimboot.c
+2024-09-30 23:28:17,104 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/progress/progress.h
+2024-09-30 23:28:17,104 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/progress/progress.h
+2024-09-30 23:28:17,104 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/progress/progress.c
+2024-09-30 23:28:17,104 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/progress/progress.c
+2024-09-30 23:28:17,104 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/tagged_items/tagged_items.c
+2024-09-30 23:28:17,104 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/tagged_items/tagged_items.c
+2024-09-30 23:28:17,104 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/tagged_items/tagged_items.h
+2024-09-30 23:28:17,104 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/tagged_items/tagged_items.h
+2024-09-30 23:28:17,104 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/util/util.c
+2024-09-30 23:28:17,104 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/util/util.c
+2024-09-30 23:28:17,104 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/util/util.h
+2024-09-30 23:28:17,104 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/util/util.h
+2024-09-30 23:28:17,104 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/security/security.h
+2024-09-30 23:28:17,104 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/security/security.h
+2024-09-30 23:28:17,104 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/security/security.c
+2024-09-30 23:28:17,104 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/security/security.c
+2024-09-30 23:28:17,104 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/avl_tree/avl_tree.c
+2024-09-30 23:28:17,104 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/avl_tree/avl_tree.c
+2024-09-30 23:28:17,104 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/avl_tree/avl_tree.h
+2024-09-30 23:28:17,104 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/avl_tree/avl_tree.h
+2024-09-30 23:28:17,104 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/decompress_common/decompress_common.h
+2024-09-30 23:28:17,104 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/decompress_common/decompress_common.h
+2024-09-30 23:28:17,105 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/decompress_common/decompress_common.c
+2024-09-30 23:28:17,105 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/decompress_common/decompress_common.c
+2024-09-30 23:28:17,105 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/reparse/reparse.c
+2024-09-30 23:28:17,105 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/reparse/reparse.c
+2024-09-30 23:28:17,105 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/reparse/reparse.h
+2024-09-30 23:28:17,105 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/reparse/reparse.h
+2024-09-30 23:28:17,105 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/xml_windows/xml_windows.c
+2024-09-30 23:28:17,105 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/xml_windows/xml_windows.c
+2024-09-30 23:28:17,105 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/xml_windows/xml_windows.h
+2024-09-30 23:28:17,105 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/xml_windows/xml_windows.h
+2024-09-30 23:28:17,105 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/x86_cpu_features/x86_cpu_features.c
+2024-09-30 23:28:17,105 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/x86_cpu_features/x86_cpu_features.c
+2024-09-30 23:28:17,105 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/x86_cpu_features/x86_cpu_features.h
+2024-09-30 23:28:17,105 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/x86_cpu_features/x86_cpu_features.h
+2024-09-30 23:28:17,105 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/lzms_common/lzms_common.h
+2024-09-30 23:28:17,105 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/lzms_common/lzms_common.h
+2024-09-30 23:28:17,105 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/lzms_common/lzms_common.c
+2024-09-30 23:28:17,105 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/lzms_common/lzms_common.c
+2024-09-30 23:28:17,105 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/file_io/file_io.h
+2024-09-30 23:28:17,105 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/file_io/file_io.h
+2024-09-30 23:28:17,105 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/file_io/file_io.c
+2024-09-30 23:28:17,105 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/file_io/file_io.c
+2024-09-30 23:28:17,105 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/paths/paths.c
+2024-09-30 23:28:17,105 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/paths/paths.c
+2024-09-30 23:28:17,105 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/paths/paths.h
+2024-09-30 23:28:17,105 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/paths/paths.h
+2024-09-30 23:28:17,105 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/inode_table/inode_table.c
+2024-09-30 23:28:17,106 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/inode_table/inode_table.c
+2024-09-30 23:28:17,106 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/inode_table/inode_table.h
+2024-09-30 23:28:17,106 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/inode_table/inode_table.h
+2024-09-30 23:28:17,106 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/encoding/encoding.h
+2024-09-30 23:28:17,106 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/encoding/encoding.h
+2024-09-30 23:28:17,106 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/encoding/encoding.c
+2024-09-30 23:28:17,106 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/encoding/encoding.c
+2024-09-30 23:28:17,106 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/solid/solid.h
+2024-09-30 23:28:17,106 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/solid/solid.h
+2024-09-30 23:28:17,106 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/solid/solid.c
+2024-09-30 23:28:17,106 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/solid/solid.c
+2024-09-30 23:28:17,106 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/scan/scan.c
+2024-09-30 23:28:17,106 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/scan/scan.c
+2024-09-30 23:28:17,106 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/scan/scan.h
+2024-09-30 23:28:17,106 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/scan/scan.h
+2024-09-30 23:28:17,106 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/win32_vss/win32_vss.h
+2024-09-30 23:28:17,107 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/win32_vss/win32_vss.h
+2024-09-30 23:28:17,107 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/win32_vss/win32_vss.c
+2024-09-30 23:28:17,107 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/win32_vss/win32_vss.c
+2024-09-30 23:28:17,107 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/lcpit_matchfinder/lcpit_matchfinder.c
+2024-09-30 23:28:17,107 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/lcpit_matchfinder/lcpit_matchfinder.c
+2024-09-30 23:28:17,107 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/lcpit_matchfinder/lcpit_matchfinder.h
+2024-09-30 23:28:17,107 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/lcpit_matchfinder/lcpit_matchfinder.h
+2024-09-30 23:28:17,107 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/xml/xml.c
+2024-09-30 23:28:17,107 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/xml/xml.c
+2024-09-30 23:28:17,107 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/xml/xml.h
+2024-09-30 23:28:17,107 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/xml/xml.h
+2024-09-30 23:28:17,107 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/divsufsort/divsufsort.c
+2024-09-30 23:28:17,107 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/divsufsort/divsufsort.c
+2024-09-30 23:28:17,107 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/divsufsort/divsufsort.h
+2024-09-30 23:28:17,107 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/divsufsort/divsufsort.h
+2024-09-30 23:28:17,108 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/win32_common/win32_common.c
+2024-09-30 23:28:17,108 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/win32_common/win32_common.c
+2024-09-30 23:28:17,108 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/win32_common/win32_common.h
+2024-09-30 23:28:17,108 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/win32_common/win32_common.h
+2024-09-30 23:28:17,108 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/compress_common/compress_common.h
+2024-09-30 23:28:17,108 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/compress_common/compress_common.h
+2024-09-30 23:28:17,108 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/compress_common/compress_common.c
+2024-09-30 23:28:17,108 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/compress_common/compress_common.c
+2024-09-30 23:28:17,108 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/lzx_common/lzx_common.h
+2024-09-30 23:28:17,108 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/lzx_common/lzx_common.h
+2024-09-30 23:28:17,108 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/lzx_common/lzx_common.c
+2024-09-30 23:28:17,108 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/lzx_common/lzx_common.c
+2024-09-30 23:28:17,108 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/inode/inode.h
+2024-09-30 23:28:17,108 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/inode/inode.h
+2024-09-30 23:28:17,108 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/inode/inode.c
+2024-09-30 23:28:17,108 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/inode/inode.c
+2024-09-30 23:28:17,108 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/textfile/textfile.c
+2024-09-30 23:28:17,108 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/textfile/textfile.c
+2024-09-30 23:28:17,108 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/textfile/textfile.h
+2024-09-30 23:28:17,108 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/textfile/textfile.h
+2024-09-30 23:28:17,108 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/pathlist/pathlist.h
+2024-09-30 23:28:17,108 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/pathlist/pathlist.h
+2024-09-30 23:28:17,108 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/pathlist/pathlist.c
+2024-09-30 23:28:17,108 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/pathlist/pathlist.c
+2024-09-30 23:28:17,108 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/lzms_constants/lzms_compress.c
+2024-09-30 23:28:17,108 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/lzms_constants/lzms_compress.c
+2024-09-30 23:28:17,108 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/lzms_constants/lzms_constants.h
+2024-09-30 23:28:17,108 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/lzms_constants/lzms_constants.h
+2024-09-30 23:28:17,108 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/test_support/test_support.h
+2024-09-30 23:28:17,108 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/test_support/test_support.h
+2024-09-30 23:28:17,108 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/test_support/test_support.c
+2024-09-30 23:28:17,108 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/test_support/test_support.c
+2024-09-30 23:28:17,108 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/sha1/sha1.c
+2024-09-30 23:28:17,108 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/sha1/sha1.c
+2024-09-30 23:28:17,108 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/sha1/sha1.h
+2024-09-30 23:28:17,108 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/sha1/sha1.h
+2024-09-30 23:28:17,108 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/registry/registry.h
+2024-09-30 23:28:17,108 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/registry/registry.h
+2024-09-30 23:28:17,108 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/registry/registry.c
+2024-09-30 23:28:17,108 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/registry/registry.c
+2024-09-30 23:28:17,108 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/wim/wim.c
+2024-09-30 23:28:17,108 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/wim/wim.c
+2024-09-30 23:28:17,108 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/wim/wim.h
+2024-09-30 23:28:17,108 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/wim/wim.h
+2024-09-30 23:28:17,108 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/pattern/pattern.h
+2024-09-30 23:28:17,108 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/pattern/pattern.h
+2024-09-30 23:28:17,108 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/pattern/pattern.c
+2024-09-30 23:28:17,108 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/pattern/pattern.c
+2024-09-30 23:28:17,108 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/resource/resource.c
+2024-09-30 23:28:17,109 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/resource/resource.c
+2024-09-30 23:28:17,109 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/resource/resource.h
+2024-09-30 23:28:17,109 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/resource/resource.h
+2024-09-30 23:28:17,109 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/timestamp/timestamp.c
+2024-09-30 23:28:17,109 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/timestamp/timestamp.c
+2024-09-30 23:28:17,109 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/timestamp/timestamp.h
+2024-09-30 23:28:17,109 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/timestamp/timestamp.h
+2024-09-30 23:28:17,109 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/error/error.h
+2024-09-30 23:28:17,109 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/error/error.h
+2024-09-30 23:28:17,109 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/error/error.c
+2024-09-30 23:28:17,109 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/error/error.c
+2024-09-30 23:28:17,109 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/header/header.h
+2024-09-30 23:28:17,109 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/header/header.h
+2024-09-30 23:28:17,109 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/header/header.c
+2024-09-30 23:28:17,109 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/header/header.c
+2024-09-30 23:28:17,109 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/blob_table/blob_table.c
+2024-09-30 23:28:17,109 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/blob_table/blob_table.c
+2024-09-30 23:28:17,109 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/blob_table/blob_table.h
+2024-09-30 23:28:17,109 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/libs/wimlib/src/blob_table/blob_table.h
+2024-09-30 23:28:17,109 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Images.xcassets/Contents.json
+2024-09-30 23:28:17,109 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Images.xcassets/Contents.json
+2024-09-30 23:28:17,109 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Images.xcassets/AppIcon.appiconset/AppIcon-64.png
+2024-09-30 23:28:17,109 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Images.xcassets/AppIcon.appiconset/AppIcon-64.png
+2024-09-30 23:28:17,109 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Images.xcassets/AppIcon.appiconset/AppIcon-1024.png
+2024-09-30 23:28:17,109 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Images.xcassets/AppIcon.appiconset/AppIcon-1024.png
+2024-09-30 23:28:17,109 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Images.xcassets/AppIcon.appiconset/AppIcon-513.png
+2024-09-30 23:28:17,109 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Images.xcassets/AppIcon.appiconset/AppIcon-513.png
+2024-09-30 23:28:17,109 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Images.xcassets/AppIcon.appiconset/AppIcon-512.png
+2024-09-30 23:28:17,110 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Images.xcassets/AppIcon.appiconset/AppIcon-512.png
+2024-09-30 23:28:17,110 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Images.xcassets/AppIcon.appiconset/AppIcon-128.png
+2024-09-30 23:28:17,110 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Images.xcassets/AppIcon.appiconset/AppIcon-128.png
+2024-09-30 23:28:17,110 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Images.xcassets/AppIcon.appiconset/AppIcon-16.png
+2024-09-30 23:28:17,110 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Images.xcassets/AppIcon.appiconset/AppIcon-16.png
+2024-09-30 23:28:17,110 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Images.xcassets/AppIcon.appiconset/AppIcon-32.png
+2024-09-30 23:28:17,110 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Images.xcassets/AppIcon.appiconset/AppIcon-32.png
+2024-09-30 23:28:17,110 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Images.xcassets/AppIcon.appiconset/AppIcon-33.png
+2024-09-30 23:28:17,110 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Images.xcassets/AppIcon.appiconset/AppIcon-33.png
+2024-09-30 23:28:17,110 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Images.xcassets/AppIcon.appiconset/Contents.json
+2024-09-30 23:28:17,110 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Images.xcassets/AppIcon.appiconset/Contents.json
+2024-09-30 23:28:17,110 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Images.xcassets/AppIcon.appiconset/AppIcon-257.png
+2024-09-30 23:28:17,110 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Images.xcassets/AppIcon.appiconset/AppIcon-257.png
+2024-09-30 23:28:17,110 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Images.xcassets/AppIcon.appiconset/AppIcon-256.png
+2024-09-30 23:28:17,110 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Images.xcassets/AppIcon.appiconset/AppIcon-256.png
+2024-09-30 23:28:17,110 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/AppDelegate/AppDelegate.h
+2024-09-30 23:28:17,110 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/AppDelegate/AppDelegate.h
+2024-09-30 23:28:17,110 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/AppDelegate/AppDelegate.m
+2024-09-30 23:28:17,110 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/AppDelegate/AppDelegate.m
+2024-09-30 23:28:17,110 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Windows/MainWindow/MainWindow.h
+2024-09-30 23:28:17,110 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Windows/MainWindow/MainWindow.h
+2024-09-30 23:28:17,110 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Windows/MainWindow/MainWindow.m
+2024-09-30 23:28:17,110 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Windows/MainWindow/MainWindow.m
+2024-09-30 23:28:17,110 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Windows/MainWindow/SynchronizedAlertData/SynchronizedAlertData.m
+2024-09-30 23:28:17,110 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Windows/MainWindow/SynchronizedAlertData/SynchronizedAlertData.m
+2024-09-30 23:28:17,110 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Windows/MainWindow/SynchronizedAlertData/SynchronizedAlertData.h
+2024-09-30 23:28:17,110 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Windows/MainWindow/SynchronizedAlertData/SynchronizedAlertData.h
+2024-09-30 23:28:17,110 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Windows/AboutWindow/AboutWindow.m
+2024-09-30 23:28:17,110 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Windows/AboutWindow/AboutWindow.m
+2024-09-30 23:28:17,110 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Windows/AboutWindow/AboutWindow.h
+2024-09-30 23:28:17,110 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Windows/AboutWindow/AboutWindow.h
+2024-09-30 23:28:17,110 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Windows/ModernWindow (Base)/ModernWindow.m
+2024-09-30 23:28:17,110 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Windows/ModernWindow (Base)/ModernWindow.m
+2024-09-30 23:28:17,110 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Windows/ModernWindow (Base)/ModernWindow.h
+2024-09-30 23:28:17,110 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Windows/ModernWindow (Base)/ModernWindow.h
+2024-09-30 23:28:17,111 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/ButtonView/ButtonView.m
+2024-09-30 23:28:17,111 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/ButtonView/ButtonView.m
+2024-09-30 23:28:17,111 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/ButtonView/ButtonView.h
+2024-09-30 23:28:17,111 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/ButtonView/ButtonView.h
+2024-09-30 23:28:17,111 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/CheckBoxView/CheckBoxView.m
+2024-09-30 23:28:17,111 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/CheckBoxView/CheckBoxView.m
+2024-09-30 23:28:17,111 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/CheckBoxView/CheckBoxView.h
+2024-09-30 23:28:17,111 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/CheckBoxView/CheckBoxView.h
+2024-09-30 23:28:17,111 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/LogView/LogView.h
+2024-09-30 23:28:17,111 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/LogView/LogView.h
+2024-09-30 23:28:17,111 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/LogView/LogView.m
+2024-09-30 23:28:17,111 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/LogView/LogView.m
+2024-09-30 23:28:17,111 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/LogView/ContaineredTableView/ContaineredTableView.h
+2024-09-30 23:28:17,111 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/LogView/ContaineredTableView/ContaineredTableView.h
+2024-09-30 23:28:17,111 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/LogView/ContaineredTableView/ContaineredTableView.m
+2024-09-30 23:28:17,111 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/LogView/ContaineredTableView/ContaineredTableView.m
+2024-09-30 23:28:17,111 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/LogView/ContaineredTableView/VibrantTableView/VibrantTableView.m
+2024-09-30 23:28:17,111 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/LogView/ContaineredTableView/VibrantTableView/VibrantTableView.m
+2024-09-30 23:28:17,111 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/LogView/ContaineredTableView/VibrantTableView/VibrantTableView.h
+2024-09-30 23:28:17,111 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/LogView/ContaineredTableView/VibrantTableView/VibrantTableView.h
+2024-09-30 23:28:17,112 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/PickerView/PickerView.h
+2024-09-30 23:28:17,112 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/PickerView/PickerView.h
+2024-09-30 23:28:17,112 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/PickerView/PickerView.m
+2024-09-30 23:28:17,112 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/PickerView/PickerView.m
+2024-09-30 23:28:17,112 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/PickerView/ IdentifiableMenuItem/IdentifiableMenuItem.m
+2024-09-30 23:28:17,112 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/PickerView/ IdentifiableMenuItem/IdentifiableMenuItem.m
+2024-09-30 23:28:17,112 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/PickerView/ IdentifiableMenuItem/IdentifiableMenuItem.h
+2024-09-30 23:28:17,112 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/PickerView/ IdentifiableMenuItem/IdentifiableMenuItem.h
+2024-09-30 23:28:17,112 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/LabelView/LabelView.h
+2024-09-30 23:28:17,112 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/LabelView/LabelView.h
+2024-09-30 23:28:17,112 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/LabelView/LabelView.m
+2024-09-30 23:28:17,112 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/LabelView/LabelView.m
+2024-09-30 23:28:17,112 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/LabelView/SlideShowedLabelView/SlideShowedLabelView.m
+2024-09-30 23:28:17,112 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/LabelView/SlideShowedLabelView/SlideShowedLabelView.m
+2024-09-30 23:28:17,112 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/LabelView/SlideShowedLabelView/SlideShowedLabelView.h
+2024-09-30 23:28:17,112 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/LabelView/SlideShowedLabelView/SlideShowedLabelView.h
+2024-09-30 23:28:17,112 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/ProgressBarView/ProgressBarView.h
+2024-09-30 23:28:17,112 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/ProgressBarView/ProgressBarView.h
+2024-09-30 23:28:17,112 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/ProgressBarView/ProgressBarView.m
+2024-09-30 23:28:17,112 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/ProgressBarView/ProgressBarView.m
+2024-09-30 23:28:17,112 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/CustomImageView/CustomImageView.m
+2024-09-30 23:28:17,112 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/CustomImageView/CustomImageView.m
+2024-09-30 23:28:17,112 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/CustomImageView/CustomImageView.h
+2024-09-30 23:28:17,112 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/CustomImageView/CustomImageView.h
+2024-09-30 23:28:17,112 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/AdvancedTextView/AdvancedTextView.h
+2024-09-30 23:28:17,112 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/AdvancedTextView/AdvancedTextView.h
+2024-09-30 23:28:17,112 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/AdvancedTextView/AdvancedTextView.m
+2024-09-30 23:28:17,112 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/AdvancedTextView/AdvancedTextView.m
+2024-09-30 23:28:17,113 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/AdvancedTextView/VibrantTextView/VibrantTextView.h
+2024-09-30 23:28:17,113 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/AdvancedTextView/VibrantTextView/VibrantTextView.h
+2024-09-30 23:28:17,113 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/AdvancedTextView/VibrantTextView/VibrantTextView.m
+2024-09-30 23:28:17,113 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/AdvancedTextView/VibrantTextView/VibrantTextView.m
+2024-09-30 23:28:17,113 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/TextInputView/TextInputView.h
+2024-09-30 23:28:17,113 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/TextInputView/TextInputView.h
+2024-09-30 23:28:17,113 - INFO - Checking file: WinDiskWriter-main/WinDiskWriter/Views/TextInputView/TextInputView.m
+2024-09-30 23:28:17,113 - DEBUG - No keyword match in filename: WinDiskWriter-main/WinDiskWriter/Views/TextInputView/TextInputView.m
+2024-09-30 23:28:17,113 - INFO - Checking file: WinDiskWriter-main/windiskwriter.xcodeproj/project.pbxproj
+2024-09-30 23:28:17,113 - DEBUG - No keyword match in filename: WinDiskWriter-main/windiskwriter.xcodeproj/project.pbxproj
+2024-09-30 23:28:17,113 - INFO - Checking file: WinDiskWriter-main/windiskwriter.xcodeproj/xcuserdata/macintosh.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+2024-09-30 23:28:17,113 - DEBUG - No keyword match in filename: WinDiskWriter-main/windiskwriter.xcodeproj/xcuserdata/macintosh.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+2024-09-30 23:28:17,113 - INFO - Checking file: WinDiskWriter-main/windiskwriter.xcodeproj/xcuserdata/macintosh.xcuserdatad/xcschemes/xcschememanagement.plist
+2024-09-30 23:28:17,113 - DEBUG - No keyword match in filename: WinDiskWriter-main/windiskwriter.xcodeproj/xcuserdata/macintosh.xcuserdatad/xcschemes/xcschememanagement.plist
+2024-09-30 23:28:17,113 - INFO - Checking file: WinDiskWriter-main/windiskwriter.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+2024-09-30 23:28:17,113 - DEBUG - No keyword match in filename: WinDiskWriter-main/windiskwriter.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+2024-09-30 23:28:17,113 - INFO - Checking file: WinDiskWriter-main/windiskwriter.xcodeproj/project.xcworkspace/xcuserdata/macintosh.xcuserdatad/IDEFindNavigatorScopes.plist
+2024-09-30 23:28:17,113 - DEBUG - No keyword match in filename: WinDiskWriter-main/windiskwriter.xcodeproj/project.xcworkspace/xcuserdata/macintosh.xcuserdatad/IDEFindNavigatorScopes.plist
+2024-09-30 23:28:17,113 - INFO - Checking file: WinDiskWriter-main/windiskwriter.xcodeproj/project.xcworkspace/xcuserdata/macintosh.xcuserdatad/UserInterfaceState.xcuserstate
+2024-09-30 23:28:17,113 - DEBUG - No keyword match in filename: WinDiskWriter-main/windiskwriter.xcodeproj/project.xcworkspace/xcuserdata/macintosh.xcuserdatad/UserInterfaceState.xcuserstate
+2024-09-30 23:28:17,113 - INFO - Checking file: WinDiskWriter-main/windiskwriter.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+2024-09-30 23:28:17,113 - DEBUG - No keyword match in filename: WinDiskWriter-main/windiskwriter.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+2024-09-30 23:28:17,114 - INFO - 
+Total files deleted: 1
+2024-09-30 23:28:17,114 - INFO - File deletion process completed.
