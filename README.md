@@ -66,4 +66,4 @@ You can modify the logging format or behavior by editing the `setup_logging()` f
 
 ## License
 
-[
+MIT
