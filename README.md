@@ -1,12 +1,13 @@
-# File Deletion Script
+# File Search and Deletion Script
 
-This Python script allows users to delete files in a specified directory (including subdirectories) based on keywords in the filenames.
+This Python script allows users to search for files in a specified directory (including subdirectories) based on keywords in the filenames, and optionally delete them.
 
 ## Features
 
 - Recursively searches through a specified directory and its subdirectories
-- Deletes files whose names contain any of the specified keywords (case-insensitive)
-- Logs all actions and errors to both a file and the console
+- Searches for files whose names contain any of the specified keywords (case-insensitive)
+- Provides an option to delete files matching the keywords
+- Logs all actions and results to both the console and a JSON file
 
 ## Requirements
 
@@ -28,36 +29,41 @@ This Python script allows users to delete files in a specified directory (includ
 
    - The full path of the directory you want to search
    - Keywords to search for in filenames, separated by commas
+   - Choose the mode: 'search' or 'delete'
 
-5. The script will display its progress and results in the terminal and log them to a file named `file_deletion_log.txt`.
+5. The script will display its progress and results in the terminal.
+
+## Modes
+
+### Search Mode
+
+- Lists files matching the keywords
+- Provides an option to delete the found files after displaying the results
+
+### Delete Mode
+
+- Directly deletes files matching the keywords without listing them first
 
 ## Example
 
-This will search the Downloads folder and its subdirectories for files containing "temp", "old", or "backup" in their names and delete them.
+This will search the Downloads folder and its subdirectories for files containing "temp", "old", or "backup" in their names and either list them or delete them based on the chosen mode.
 
 ## Caution
 
-- This script permanently deletes files. Use with caution and ensure you have backups of important data.
+- The delete mode permanently removes files. Use with caution and ensure you have backups of important data.
 - Double-check the directory path and keywords before confirming the deletion process.
 - The script requires appropriate permissions to read and delete files in the specified directory.
 
 ## Logging
 
-- All actions and errors are logged to `file_deletion_log.txt` in the same directory as the script.
-- The log file is overwritten each time the script runs.
+- All actions and results are logged to the console.
+- A detailed log is saved as a JSON file named `file_deletion_log_YYYYMMDD_HHMMSS.json` in the same directory as the script.
+- The JSON log includes information about checked files, deleted files, and a summary of the operation.
 
 ## Customization
 
-You can modify the logging level, format, or file name by editing the logging configuration in the script.
+You can modify the logging format or behavior by editing the `setup_logging()` function in the script.
 
 ## License
 
-MIT License
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page] if you want to contribute.
-
-## Author
-
-Leo Ho
+[
