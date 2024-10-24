@@ -5,6 +5,7 @@ from datetime import datetime
 from urllib.parse import urlparse
 import socket
 from smb.SMBConnection import SMBConnection
+import getpass
 
 def setup_logging():
     # Set up console logger
@@ -214,52 +215,81 @@ def delete_files_with_keywords(conn, share_name, directory, keywords, is_smb=Fal
 
 def main():
     while True:
-        path = input("Enter the path (local directory or SMB URL): ")
+        mode = input("Choose mode (1 for local path, 2 for SMB): ")
         
-        if is_smb_path(path):
-            username = input("Enter SMB username: ")
-            password = input("Enter SMB password: ")
-            conn, share_name, directory, ip_address = connect_to_smb(path, username, password)
-            if not conn:
-                retry = input("Connection failed. Do you want to try again? (yes/no): ").lower()
-                if retry != 'yes':
-                    print("Exiting program.")
-                    return
-                continue
-            is_smb = True
-        else:
+        if mode == "1":
+            is_smb = False
+            path = input("Enter the local directory path: ")
             if not os.path.exists(path):
                 print("The specified local path does not exist.")
-                retry = input("Do you want to try again? (yes/no): ").lower()
-                if retry != 'yes':
-                    print("Exiting program.")
-                    return
-                continue
+                return
             conn, share_name, directory = None, None, path
-            is_smb = False
+        elif mode == "2":
+            is_smb = True
+            smb_connections = []  # This list is empty as per your observation
+            
+            if not smb_connections:
+                print("No existing SMB connections found.")
+                choice = 'n'
+            else:
+                print("Existing SMB connections:")
+                for i, connection in enumerate(smb_connections, 1):
+                    print(f"{i}. {connection['server']} - {connection['share']}")
+                
+                choice = input("Enter the number of the SMB connection to use, or 'n' for a new connection: ")
+            
+            if choice.lower() == 'n':
+                path = input("Enter the SMB URL: ")
+                username = input("Enter SMB username: ")
+                password = getpass.getpass("Enter SMB password: ")
+                conn, share_name, directory, ip_address = connect_to_smb(path, username, password)
+                if not conn:
+                    print("Connection failed. Exiting program.")
+                    return
+            else:
+                try:
+                    selected_conn = smb_connections[int(choice) - 1]
+                    conn, share_name, directory, ip_address = connect_to_smb(
+                        selected_conn['server'], 
+                        selected_conn['username'], 
+                        selected_conn['password']
+                    )
+                    if not conn:
+                        print("Connection failed. Exiting program.")
+                        return
+                except (ValueError, IndexError):
+                    print("Invalid selection. Exiting program.")
+                    return
+        else:
+            print("Invalid mode selection. Exiting program.")
+            return
+
+        keywords = input("Enter keywords separated by commas: ").split(',')
         
-        break  # If we reach here, we have a valid path
+        matches = search_files_with_keywords(conn, share_name, directory, keywords, is_smb)
 
-    keywords = input("Enter keywords separated by commas: ").split(',')
-    
-    matches = search_files_with_keywords(conn, share_name, directory, keywords, is_smb)
+        if not any(matches.values()):
+            print("No files found matching the given keywords.")
+        else:
+            total_matches = sum(len(files) for files in matches.values())
+            for keyword, files in matches.items():
+                print(f'"{keyword}": {len(files)} results')
+                for file in files:
+                    print(f'  - {file}')
+            
+            print(f"\nTotal files matching keywords: {total_matches}")
+            delete_choice = input(f"Do you want to delete these {total_matches} files? (yes/no): ").lower()
+            if delete_choice == 'yes':
+                delete_files_with_keywords(conn, share_name, directory, keywords, is_smb)
 
-    if not any(matches.values()):
-        print("No files found matching the given keywords.")
-    else:
-        total_matches = sum(len(files) for files in matches.values())
-        for keyword, files in matches.items():
-            print(f'"{keyword}": {len(files)} results')
-            for file in files:
-                print(f'  - {file}')
-        
-        print(f"\nTotal files matching keywords: {total_matches}")
-        delete_choice = input(f"Do you want to delete these {total_matches} files? (yes/no): ").lower()
-        if delete_choice == 'yes':
-            delete_files_with_keywords(conn, share_name, directory, keywords, is_smb)
+        if conn:
+            conn.close()
 
-    if conn:
-        conn.close()
+        another_search = input("Do you want to perform another search? (yes/no): ").lower()
+        if another_search != 'yes':
+            break
+
+    print("Program finished. Goodbye!")
 
 if __name__ == "__main__":
     main()
