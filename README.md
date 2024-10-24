@@ -12,26 +12,41 @@ This Python script allows users to search for files in a specified directory (in
 ## Requirements
 
 - Python 3.x
+- pysmb package
 
-## Usage
+## Installation
 
 1. Clone or download this repository to your local machine.
 
 2. Open a terminal and navigate to the directory containing the script.
 
-3. Run the script using Python:
+3. Install the required package using pip:
+
+   ```
+   pip install pysmb
+   ```
+
+   Alternatively, if you have a `requirements.txt` file, you can install all required packages at once:
+
+   ```
+   pip install -r requirements.txt
+   ```
+
+## Usage
+
+1. After installing the required package, run the script using Python:
 
    ```
    python3 main.py
    ```
 
-4. When prompted, enter:
+2. When prompted, enter:
 
    - The full path of the directory you want to search
    - Keywords to search for in filenames, separated by commas
    - Choose the mode: 'search' or 'delete'
 
-5. The script will display its progress and results in the terminal.
+3. The script will display its progress and results in the terminal.
 
 ## Modes
 

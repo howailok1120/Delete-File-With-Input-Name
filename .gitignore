@@ -1,2 +1,10 @@
+# Virtual environment
+myenv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
 *.log
 *.json
+*/lib
