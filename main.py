@@ -247,12 +247,14 @@ def main():
     if not any(matches.values()):
         print("No files found matching the given keywords.")
     else:
+        total_matches = sum(len(files) for files in matches.values())
         for keyword, files in matches.items():
             print(f'"{keyword}": {len(files)} results')
             for file in files:
                 print(f'  - {file}')
         
-        delete_choice = input("Do you want to delete these files? (yes/no): ").lower()
+        print(f"\nTotal files matching keywords: {total_matches}")
+        delete_choice = input(f"Do you want to delete these {total_matches} files? (yes/no): ").lower()
         if delete_choice == 'yes':
             delete_files_with_keywords(conn, share_name, directory, keywords, is_smb)
 
