@@ -1,18 +1,21 @@
 # File Search and Deletion Script
 
-This Python script allows users to search for files in a specified directory (including subdirectories) based on keywords in the filenames, and optionally delete them.
+This Python script allows users to search for files in a specified directory (including subdirectories) based on keywords in the filenames, and optionally delete them. It supports both local directories and SMB shares.
 
 ## Features
 
 - Recursively searches through a specified directory and its subdirectories
+- Supports both local file systems and SMB network shares
 - Searches for files whose names contain any of the specified keywords (case-insensitive)
+- Supports exact matching of keywords enclosed in hyphens (e.g., "-{keyword}-")
+- Supports matching standalone words in filenames
 - Provides an option to delete files matching the keywords
 - Logs all actions and results to both the console and a JSON file
 
 ## Requirements
 
 - Python 3.x
-- pysmb package
+- pysmb package (for SMB support)
 
 ## Installation
 
@@ -42,7 +45,7 @@ This Python script allows users to search for files in a specified directory (in
 
 2. When prompted, enter:
 
-   - The full path of the directory you want to search
+   - The full path of the directory you want to search (local path or SMB share)
    - Keywords to search for in filenames, separated by commas
    - Choose the mode: 'search' or 'delete'
 
@@ -59,15 +62,33 @@ This Python script allows users to search for files in a specified directory (in
 
 - Directly deletes files matching the keywords without listing them first
 
+## Keyword Matching
+
+The script now supports three types of keyword matching:
+
+1. Substring matching (case-insensitive)
+2. Exact matching of keywords enclosed in hyphens (e.g., "-{keyword}-")
+3. Standalone word matching (using word boundaries)
+
 ## Example
 
-This will search the Downloads folder and its subdirectories for files containing "temp", "old", or "backup" in their names and either list them or delete them based on the chosen mode.
+This will search the Downloads folder (or an SMB share) and its subdirectories for files containing "temp", "old", or "backup" in their names and either list them or delete them based on the chosen mode.
+
+## SMB Support
+
+To use an SMB share, provide the path in the format:
+
+```
+\\server\share\directory
+```
+
+The script will prompt for username and password if needed.
 
 ## Caution
 
 - The delete mode permanently removes files. Use with caution and ensure you have backups of important data.
 - Double-check the directory path and keywords before confirming the deletion process.
-- The script requires appropriate permissions to read and delete files in the specified directory.
+- The script requires appropriate permissions to read and delete files in the specified directory or SMB share.
 
 ## Logging
 

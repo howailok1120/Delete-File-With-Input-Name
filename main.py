@@ -6,6 +6,7 @@ from urllib.parse import urlparse
 import socket
 from smb.SMBConnection import SMBConnection
 import getpass
+import re
 
 def setup_logging():
     # Set up console logger
@@ -54,6 +55,15 @@ def search_files_with_keywords(conn, share_name, directory, keywords, is_smb=Fal
     matches = {}
     total_files = 0
 
+    def keyword_matches(filename, keyword):
+        # Check for exact match of "-{keyword}-"
+        if f"-{keyword}-" in filename.lower():
+            return True
+        
+        # Check for standalone word
+        word_pattern = r'\b' + re.escape(keyword.lower()) + r'\b'
+        return bool(re.search(word_pattern, filename.lower()))
+
     def search_smb_directory(current_path):
         nonlocal total_files
         try:
@@ -66,7 +76,7 @@ def search_files_with_keywords(conn, share_name, directory, keywords, is_smb=Fal
                     search_smb_directory(file_path)
                 else:
                     for keyword in keywords:
-                        if keyword.lower() in f.filename.lower():
+                        if keyword_matches(f.filename, keyword):
                             if keyword not in matches:
                                 matches[keyword] = []
                             matches[keyword].append(file_path)
@@ -82,7 +92,7 @@ def search_files_with_keywords(conn, share_name, directory, keywords, is_smb=Fal
                     total_files += 1
                     file_path = os.path.join(root, file)
                     for keyword in keywords:
-                        if keyword.lower() in file.lower():
+                        if keyword_matches(file, keyword):
                             if keyword not in matches:
                                 matches[keyword] = []
                             matches[keyword].append(file_path)
@@ -116,6 +126,15 @@ def delete_files_with_keywords(conn, share_name, directory, keywords, is_smb=Fal
         "summary": {}
     }
 
+    def keyword_matches(filename, keyword):
+        # Check for exact match of "-{keyword}-"
+        if f"-{keyword}-" in filename.lower():
+            return True
+        
+        # Check for standalone word
+        word_pattern = r'\b' + re.escape(keyword.lower()) + r'\b'
+        return bool(re.search(word_pattern, filename.lower()))
+
     def process_smb_directory(current_path):
         nonlocal deleted_count, total_files
         try:
@@ -136,7 +155,7 @@ def delete_files_with_keywords(conn, share_name, directory, keywords, is_smb=Fal
                     if f.isDirectory:
                         process_smb_directory(file_path)
                     else:
-                        if any(keyword.lower() in f.filename.lower() for keyword in keywords):
+                        if any(keyword_matches(f.filename, keyword) for keyword in keywords):
                             conn.deleteFiles(share_name, file_path)
                             logger.info(f"Deleted: {file_path}")
                             file_info["deleted"] = True
@@ -170,7 +189,7 @@ def delete_files_with_keywords(conn, share_name, directory, keywords, is_smb=Fal
                     }
                     
                     try:
-                        if any(keyword.lower() in file.lower() for keyword in keywords):
+                        if any(keyword_matches(file, keyword) for keyword in keywords):
                             os.remove(file_path)
                             logger.info(f"Deleted: {file_path}")
                             file_info["deleted"] = True
